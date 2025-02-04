@@ -10,3 +10,6 @@ def five(numero):
     while numero % 5 == 0:
         numero //= 5
     return numero == 1
+
+def boba(a):
+    return a**2
