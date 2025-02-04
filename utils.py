@@ -2,7 +2,7 @@ def factorial(n):
     result = 1
     for i in range(1, n + 1):
         result *= i
-    return result
+    return result#frwkfowejfoew
 
 def five(numero):
     if numero <= 0:
@@ -13,3 +13,6 @@ def five(numero):
 
 def boba(a):
     return a**2 #branch review
+
+def dod(a,b):
+    return(a+b)#hujhujhujhihijiji
