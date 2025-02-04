@@ -6,4 +6,5 @@ if __name__ == "__main__":
 from utils import boba
 if __name__ == "__main__":
     a = int(input())
-    print(factorial(a))
+    print(boba(a)) #підносить до квадрату
+#branch review
